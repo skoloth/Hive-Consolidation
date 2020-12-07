@@ -27,7 +27,7 @@ So when live data is ingested, the data will be written in day partition. Let's 
  /data/customevents/day=20200101/part00004-c0012003nc
  /data/customevents/day=20200101/part00005-sbd2893ddd
  /data/customevents/day=20200101/part00006-djhdu29839
- /data/customevents/day=20200101/part00007-bs28dsjdjs
+
  --
  --
  --
