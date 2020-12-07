@@ -21,13 +21,21 @@ So when live data is ingested, the data will be written in day partition. Let's 
 - hdfs dfs -ls /data/customevents/day=20200101/
 
   /data/customevents/day=20200101/part00000-djwhu28391
+  
   /data/customevents/day=20200101/part00001-gjwhu28e92
+  
   /data/customevents/day=20200101/part00002-hjwhu28342
+  
   /data/customevents/day=20200101/part00003-dewhu28392
+  
   /data/customevents/day=20200101/part00004-dfdhu24342
+  
   /data/customevents/day=20200101/part00005-djwhu28fdf
+  
   /data/customevents/day=20200101/part00006-djwffd8392
+  
   /data/customevents/day=20200101/part00007-ddfdggg292
+  
   so on
  
 
