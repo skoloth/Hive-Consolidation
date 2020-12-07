@@ -20,13 +20,16 @@ Let's say you have live data written in table customer_click_events, in day part
 So when live data is ingested, the data will be written in day partition. Let's assume today's date is 20200101
 - hdfs dfs -ls /data/customevents/day=20200101/
 
-  /data/customevents/day=20200101/part00000-djwhu28392
- /data/customevents/day=20200101/part00001-wewu823232
- /data/customevents/day=20200101/part00002-72dnsj3823
- /data/customevents/day=20200101/part00003-fdwty34344
- /data/customevents/day=20200101/part00004-c0012003nc
- /data/customevents/day=20200101/part00005-sbd2893ddd
- /data/customevents/day=20200101/part00006-djhdu29839
+  /data/customevents/day=20200101/part00000-djwhu28391
+  /data/customevents/day=20200101/part00001-gjwhu28e92
+  /data/customevents/day=20200101/part00002-hjwhu28342
+  /data/customevents/day=20200101/part00003-dewhu28392
+  /data/customevents/day=20200101/part00004-dfdhu24342
+  /data/customevents/day=20200101/part00005-djwhu28fdf
+  /data/customevents/day=20200101/part00006-djwffd8392
+  /data/customevents/day=20200101/part00007-ddfdggg292
+  so on
+ 
 
  --
  --
